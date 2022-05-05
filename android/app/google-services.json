@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "268883114444",
+    "project_id": "raktaflutterapp",
+    "storage_bucket": "raktaflutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268883114444:android:dc963aaa28b93614150569",
+        "android_client_info": {
+          "package_name": "com.snapsid.loginuicolors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "268883114444-thvar28kmmfheeta697o54cspmkoer76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL7Q-WmdxQT9rX124TB_ekOchDkraYFP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "268883114444-thvar28kmmfheeta697o54cspmkoer76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
